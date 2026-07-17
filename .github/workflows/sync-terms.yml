@@ -1,0 +1,49 @@
+name: Sync Tech Terms from ClickUp
+
+on:
+  # Triggered by ClickUp webhook via repository_dispatch
+  repository_dispatch:
+    types: [clickup-term-update]
+
+  # Manual trigger button in the Actions tab
+  workflow_dispatch:
+
+  # Fallback: run once daily in case a webhook was ever lost
+  schedule:
+    - cron: "0 15 * * *"  # 15:00 UTC = 01:00 AEST — quiet hours
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to commit the updated JSON back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync terms from ClickUp
+        env:
+          CLICKUP_API_TOKEN: ${{ secrets.CLICKUP_API_TOKEN }}
+          CLICKUP_LIST_ID: ${{ secrets.CLICKUP_LIST_ID }}
+        run: python scripts/sync_terms.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/terms.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update terms.json from ClickUp [skip ci]"
+            git push
+          fi
