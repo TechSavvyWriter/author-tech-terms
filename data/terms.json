@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:15:19.992003+00:00",
+  "generated_at": "2026-07-17T22:57:02.869813+00:00",
   "count": 70,
   "terms": [
     {
@@ -11,7 +11,7 @@
       "example": "Testing two book cover designs to see which gets more clicks.",
       "recommendation": "Yes, once you have enough traffic to make it meaningful.",
       "long_definition": "A/B testing (or split testing) is showing two versions of something — an ad, a subject line, a cover, a landing page — to different groups and measuring which performs better. It only works when you have enough traffic or emails going out for the results to be trustworthy. For most indie authors, A/B testing subject lines and ad creative is where it pays off first.",
-      "category": "false",
+      "category": "Marketing",
       "related_terms": [
         "conversion-rate",
         "landing-page",
@@ -28,7 +28,7 @@
       "example": "Your email service talks to your website to add new subscribers automatically.",
       "recommendation": "Not directly, but you want tools that \"integrate\" (have APIs).",
       "long_definition": "Think of an API as a waiter in a restaurant. You don't go into the kitchen to get your food — you tell the waiter what you want, and they bring it back. APIs let one app request information or actions from another app without either app needing to know how the other works internally. For authors, APIs are why your email signup form on your website can automatically add someone to MailerLite, or why a book cover generator can pull your title and author name from another tool.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "integration",
         "automation",
@@ -45,7 +45,7 @@
       "example": "Sending PDFs or ebooks to 50 readers two weeks before launch day.",
       "recommendation": "YES! Reviews on launch day matter enormously.",
       "long_definition": "An ARC is a copy of your book distributed to readers, reviewers, or bloggers before it goes on sale, so that reviews are ready when your book launches. Services like BookFunnel, StoryOrigin, and BookSirens make this manageable. A good ARC team of even 20–30 engaged readers can be the difference between a book that gains traction and one that disappears.",
-      "category": "false",
+      "category": "Publishing",
       "related_terms": [
         "publishing",
         "ebook",
@@ -62,7 +62,7 @@
       "example": "Someone joins your email list, they automatically get 5 welcome emails over 2 weeks.",
       "recommendation": "YES! Saves hours weekly.",
       "long_definition": "Automation is the closest thing authors have to cloning themselves. Any repeatable task — sending welcome emails, posting to social media, tagging new subscribers, sending review requests after a book download — can be set up once and left to run. Start small: one welcome email that sends automatically when someone joins your list. Once you see the time it saves, you'll never look back.",
-      "category": "false",
+      "category": "Productivity",
       "related_terms": [
         "autoresponder",
         "integration",
@@ -79,7 +79,7 @@
       "example": "Day 1: Welcome! Day 3: Here's a tip. Day 7: Check out my book.",
       "recommendation": "Absolutely. It sells while you sleep.",
       "long_definition": "An autoresponder (sometimes called an email sequence, funnel, or automation) is a pre-written series of emails that goes out on a schedule after someone triggers it — usually by joining your list. This is where email marketing earns its keep: while you're writing your next book, your welcome sequence is introducing new readers to your world, building the relationship, and pointing them at your first book. Every email service provider worth using can do this.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "automation",
         "email-service-provider",
@@ -97,7 +97,7 @@
       "example": "Keeping your manuscript on your laptop, in Dropbox, AND on an external hard drive.",
       "recommendation": "YES! Especially your manuscripts. Multiple copies, different places.",
       "long_definition": "A backup is a duplicate copy of your files stored somewhere separate from the original, so that if your laptop dies, gets stolen, or catches fire, your manuscripts survive. The rule of thumb is 3-2-1: three copies, on two different types of storage, with one copy off-site (in the cloud counts). For authors, backing up manuscripts is non-negotiable. Losing a book to a hard drive failure is heartbreaking and entirely preventable.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "cloud-storage",
         "download-upload"
@@ -113,7 +113,7 @@
       "example": "Like a highway — more lanes (bandwidth) = more traffic without slowing down.",
       "recommendation": "Your host handles this. Ignore unless your site crashes from too many visitors (good problem!).",
       "long_definition": "Bandwidth is the amount of data your website can send to visitors in a given month. Every image, page load, and download counts toward it. Most hosting plans include plenty for author websites, and you'll only notice bandwidth if something goes viral (in which case, congratulations — upgrading your plan is a nice problem to solve).",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "hosting",
         "traffic"
@@ -129,7 +129,7 @@
       "example": "Where you share writing tips, book updates, and connect with readers.",
       "recommendation": "Yes, but start simple. Even one post monthly helps.",
       "long_definition": "A blog is a section of your website where you regularly publish articles. For authors, blogs do two jobs: they give Google reasons to send people to your site (SEO), and they give existing readers reasons to come back between books. You don't need to blog weekly. One thoughtful post a month, focused on what your ideal readers care about, will do more than daily posts nobody reads.",
-      "category": "false",
+      "category": "Content",
       "related_terms": [
         "seo",
         "cms",
@@ -147,7 +147,7 @@
       "example": "Like someone walking into a store, looking around, and walking right out.",
       "recommendation": "Not initially. Focus on creating good content first.",
       "long_definition": "Bounce rate is the percentage of visitors who land on one page of your site and leave without clicking anywhere else. A high bounce rate isn't always bad — if someone Googles your book title, lands on your book page, and clicks the buy link on Amazon, they've 'bounced' from your site but done exactly what you wanted. Context matters more than the number.",
-      "category": "false",
+      "category": "Analytics",
       "related_terms": [
         "traffic",
         "engagement-rate",
@@ -164,7 +164,7 @@
       "example": "Why your website loads quickly the second time you visit it.",
       "recommendation": "Only matters when you’ve just updated something and can’t see the change.",
       "long_definition": "Cache is a temporary store of data that lets your browser (or website) load faster by not fetching everything fresh every time. It's usually invisible — until you update your website and can't see the change. Solution: 'hard refresh' the page (Cmd+Shift+R on Mac, Ctrl+F5 on Windows), or 'clear your cache' in browser settings.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "bandwidth",
         "cms",
@@ -181,7 +181,7 @@
       "example": "Google Drive, Dropbox, iCloud, OneDrive.",
       "recommendation": "YES! At least one, ideally two.",
       "long_definition": "Cloud storage keeps copies of your files on someone else's servers, accessible from any device. Google Drive, Dropbox, iCloud, and OneDrive are the big four. Cloud storage isn't a backup by itself — a synced file that deletes on one device deletes everywhere — but combined with version history, it comes close. Every author should have manuscripts in at least one cloud service.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "backup",
         "download-upload"
@@ -197,7 +197,7 @@
       "example": "WordPress, Wix, Squarespace — where you write posts and add pages.",
       "recommendation": "Yes, but WordPress.com (free) is fine to start.",
       "long_definition": "A CMS is the software that lets you build and edit a website without touching code. WordPress powers around 40% of the web. Wix, Squarespace, Shopify, and (for authors specifically) Ivorey are all CMSs too. Pick one you can actually use — the 'best' CMS is the one you'll keep updating.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "wordpress",
         "hosting",
@@ -214,7 +214,7 @@
       "example": "100 people visit, 2 buy your book = 2% conversion rate.",
       "recommendation": "Eventually yes, but not day one.",
       "long_definition": "Conversion rate is the percentage of people who take a specific action — buying, subscribing, clicking, downloading. Different pages have different conversion rates: a well-designed landing page might convert at 20–40%, a homepage at 1–3%. Small improvements matter: doubling a 2% conversion rate is the same as doubling your traffic, but usually much cheaper.",
-      "category": "false",
+      "category": "Analytics",
       "related_terms": [
         "landing-page",
         "cta",
@@ -232,7 +232,7 @@
       "example": "Tracks who bought what, when they joined your list, what they clicked.",
       "recommendation": "No. Your email service does this. Don't buy a separate CRM.",
       "long_definition": "A CRM stores information about your contacts and every interaction they've had with you. Big businesses use dedicated CRMs like Salesforce or HubSpot. Authors don't need one — a decent email service provider like MailerLite or ConvertKit already tracks who your subscribers are, what they've bought, and what they've clicked. Adding a separate CRM adds cost and complexity without adding value.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "email-service-provider",
         "subscriber",
@@ -250,7 +250,7 @@
       "example": "Like choosing wallpaper and furniture for your house.",
       "recommendation": "NO! Use templates. Leave CSS to designers.",
       "long_definition": "CSS is the code that controls how a website looks — colours, fonts, spacing, layout. HTML is the skeleton; CSS is the paint and furniture. You don't need to learn it. Modern website builders let you change colours and fonts with a click. If you ever need something custom, hire someone for an hour rather than spending a weekend learning selectors and specificity.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "html",
         "cms",
@@ -267,7 +267,7 @@
       "example": "\"Buy Now\" \"Sign Up\" \"Read More\"",
       "recommendation": "Yes! Every page needs one clear action.",
       "long_definition": "A call to action is the button, link, or line that tells your reader what to do next. Every page on your site should have one — and ideally just one. If a visitor lands on your book page, the CTA is 'Buy on Amazon'. On your homepage, it might be 'Join my reader list'. Confused readers do nothing. Clear CTAs turn visitors into subscribers, and subscribers into readers.",
-      "category": "false",
+      "category": "Content",
       "related_terms": [
         "conversion-rate",
         "landing-page",
@@ -284,7 +284,7 @@
       "example": "Why 'techsavvywriters.com' takes you to the right server.",
       "recommendation": "Only matters when moving hosts or setting up email.",
       "long_definition": "DNS is the internet's address book — it translates human-friendly domain names (techsavvywriters.com) into the numerical IP addresses that servers actually use. You'll only meet DNS when you're moving your website to a new host, connecting a domain to a new platform, or setting up custom email addresses. When you do, look up 'DNS records' and follow instructions carefully — mistakes here take your site offline.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "domain-name",
         "hosting"
@@ -300,7 +300,7 @@
       "example": "www.yourauthorname.com",
       "recommendation": "Eventually yes ($12/year). But start with a free subdomain.",
       "long_definition": "Your domain name is what people type to find you: yourauthorname.com. You buy it from a registrar (Namecheap, GoDaddy, Google Domains) for around $12–20 a year. Buy your author name if you can, and buy it early — even before you have a website. You can point it at a placeholder now and build the site later. Owning your name matters.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "hosting",
         "url",
@@ -317,7 +317,7 @@
       "example": "Download a book to read. Upload your manuscript to KDP.",
       "recommendation": "Yes, basic concept helps daily.",
       "long_definition": "Download and upload describe which direction data is moving. Downloading is pulling something to your device (a book, a template, an image). Uploading is pushing something from your device to the internet (your manuscript to KDP, a cover image to your website). Upload speeds are usually slower than download speeds on home internet — worth knowing if you're moving big files like audiobook masters.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "bandwidth"
       ],
@@ -332,7 +332,7 @@
       "example": "Why you can't email a Kindle book to a friend.",
       "recommendation": "Amazon handles this. Don't worry about it.",
       "long_definition": "DRM is the technology that stops people copying and sharing digital files. On KDP you'll be asked whether to enable DRM on your ebooks. It's a genuine debate — DRM inconveniences honest readers more than it stops determined pirates, and some authors deliberately turn it off. Most authors leave it on. Either way, it's a checkbox, not something you need to build.",
-      "category": "false",
+      "category": "Publishing",
       "related_terms": [
         "publishing",
         "ebook"
@@ -348,7 +348,7 @@
       "example": "MailChimp, MailerLite, ConvertKit",
       "recommendation": "YES! #1 tool for authors. Start with MailerLite (free).",
       "long_definition": "An ESP is the platform that lets you legally send bulk emails, keep track of your subscribers, and automate email sequences. Gmail is for one-to-one email; an ESP is for one-to-many. For authors starting out, MailerLite has a generous free tier and a friendly interface. ConvertKit (now Kit) is popular with more established authors. Whichever you pick, this is the single most important tool in your author business.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "autoresponder",
         "subscriber",
@@ -367,7 +367,7 @@
       "example": "Adding a YouTube video or signup form to your website.",
       "recommendation": "Yes, but it's just copy and paste!",
       "long_definition": "Embedding is dropping content from one site into another — a YouTube video, a signup form, a Spotify player, a Canva design. You usually copy a snippet of code from the source (called an embed code or iframe) and paste it into your website builder. Note: not everything can be embedded. Some platforms deliberately block being loaded inside other sites for security reasons.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "html",
         "cms",
@@ -384,7 +384,7 @@
       "example": "Of 100 email subscribers, 25 open your email = 25% engagement.",
       "recommendation": "Yes, it shows if people care about your content.",
       "long_definition": "Engagement rate measures whether people are actually paying attention. On email it's opens and clicks. On social it's likes, comments, shares, and saves. On your website it's time spent and pages per visit. Engagement is a better signal than raw reach — 100 engaged readers will do more for your career than 10,000 followers who never open anything.",
-      "category": "false",
+      "category": "Analytics",
       "related_terms": [
         "open-rate",
         "bounce-rate",
@@ -401,7 +401,7 @@
       "example": "The file you upload to Kobo, Apple Books, Barnes & Noble.",
       "recommendation": "Yes, especially if going wide.",
       "long_definition": "EPUB is the industry-standard ebook format. Every major retailer except Amazon (which uses its own MOBI/AZW/KFX formats) reads EPUB. Formatting software like Vellum, Atticus, or Draft2Digital's converter produces clean EPUBs from your manuscript. If you're going wide (selling on more than just Amazon), EPUB is the file you'll be uploading everywhere else.",
-      "category": "false",
+      "category": "Publishing",
       "related_terms": [
         "drm",
         "publishing",
@@ -418,7 +418,7 @@
       "example": "The little logo on the tab when you have techsavvywriters.com open.",
       "recommendation": "Yes! Easy, professional touch. Takes 5 minutes.",
       "long_definition": "A favicon is the tiny (usually 32x32 pixel) icon that shows in a browser tab, bookmarks, and search results next to your site name. Every serious site has one, and setting one up takes minutes. Use your logo, initials, or a simple mark. Canva has favicon templates. Small detail; big signal of professionalism.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "cms",
         "url",
@@ -435,7 +435,7 @@
       "example": "See ad → Visit website → Join list → Buy book",
       "recommendation": "You already have one! Just make it intentional.",
       "long_definition": "A funnel is the journey someone takes from first hearing about you to becoming a reader. A typical author funnel: Pinterest or Instagram → landing page → free lead magnet → email welcome sequence → book purchase. Funnel doesn't mean sleazy — it just means being deliberate about the path. Every author has a funnel; the question is whether yours is designed or accidental.",
-      "category": "false",
+      "category": "Marketing",
       "related_terms": [
         "landing-page",
         "lead-magnet",
@@ -454,7 +454,7 @@
       "example": "Why every website now has a cookie banner.",
       "recommendation": "Yes, basics matter. Don’t sell reader data. Confirm opt-ins.",
       "long_definition": "GDPR is the European Union's privacy law, and it applies to any business — including a solo indie author — that collects personal data from anyone in the EU. In practice, this means: get real consent before adding people to your list, let subscribers unsubscribe easily, and don't share their data with third parties without permission. The basics are also just good ethics.",
-      "category": "false",
+      "category": "Legal",
       "related_terms": [
         "opt-in",
         "subscriber",
@@ -471,7 +471,7 @@
       "example": "Like renting an apartment for your website.",
       "recommendation": "Start with free (WordPress.com), upgrade when making money.",
       "long_definition": "Hosting is where your website files actually live so that people can visit them. Your domain is the address; hosting is the land the house is built on. All-in-one platforms (Wix, Squarespace, Ivorey, WordPress.com) include hosting in their monthly fee. Self-hosted WordPress needs separate hosting from a provider like SiteGround or Bluehost — more control, more responsibility.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "domain-name",
         "cms",
@@ -489,7 +489,7 @@
       "example": "The skeleton of a website before making it pretty.",
       "recommendation": "NO! Use visual editors.",
       "long_definition": "HTML is the code that defines the structure of a web page — headings, paragraphs, images, links. Every website is HTML underneath, even the ones built with drag-and-drop editors. You do not need to learn HTML to run an author website. Knowing a tiny bit (like what a <br> is if you see one) doesn't hurt, but visual editors handle everything.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "css",
         "cms",
@@ -506,7 +506,7 @@
       "example": "Your website form adds people to your email list automatically.",
       "recommendation": "Yes! Saves tons of time.",
       "long_definition": "An integration is a pre-built connection between two tools that lets them share data. When your website form adds a new signup directly to MailerLite, that's an integration. Some tools integrate natively (a checkbox in settings). Others need a middleman like Zapier or Make. Before buying any new tool, check what it integrates with — a tool that doesn't play well with your stack will cost you time later.",
-      "category": "false",
+      "category": "Productivity",
       "related_terms": [
         "api",
         "automation",
@@ -523,7 +523,7 @@
       "example": "Like a phone number for your computer while it's online.",
       "recommendation": "Rarely relevant. Some ESPs use it for tracking opens by location.",
       "long_definition": "An IP address is a numerical label assigned to every device on the internet. You'll almost never think about your own, but you might see them in email analytics (approximate reader location) or if you get accidentally blocked from a site (someone else on your network misbehaved). Not something you need to manage day to day.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "isp",
         "bandwidth"
@@ -539,7 +539,7 @@
       "example": "Your internet bill company.",
       "recommendation": "Only if your internet is slow.",
       "long_definition": "Your ISP is the company that provides your home or office internet — Telstra, Optus, TPG, Aussie Broadband in Australia. Rarely matters for your author business unless you're doing a lot of video calls or uploading large files. If your internet is slow, an NBN plan upgrade is usually the fix.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "bandwidth"
       ],
@@ -554,7 +554,7 @@
       "example": "How your website might receive a list of your books from an API.",
       "recommendation": "No — but you might see the word if working with developers.",
       "long_definition": "JSON is a lightweight, human-readable text format for structuring data. When two apps talk to each other via API, they usually swap JSON. You don't need to write it, but you might see it in developer tools or when configuring a Zapier step. It looks like curly braces full of 'key': 'value' pairs.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "api",
         "integration",
@@ -571,7 +571,7 @@
       "example": "\"cozy mystery books\" \"how to write a novel\"",
       "recommendation": "Yes! Use in your website and book descriptions.",
       "long_definition": "Keywords are the words and phrases people actually type into Google, Amazon, or Pinterest when they're looking for something. Your job is to figure out what your ideal readers search for, then use those exact phrases in your book descriptions, blog posts, and page titles. Free tools like Google Trends and Amazon's own search suggestions will get you started.",
-      "category": "false",
+      "category": "SEO",
       "related_terms": [
         "seo",
         "metadata",
@@ -588,7 +588,7 @@
       "example": "A page that says \"Get My Free Writing Guide\" with just a signup form.",
       "recommendation": "Yes! Even a simple one converts 10x better than your homepage.",
       "long_definition": "A landing page is a single-purpose page with no distractions — no menu, no sidebar, no links out. Its job is to get one specific action: a signup, a download, a purchase. Because landing pages remove choices, they convert far better than general pages. Every lead magnet, book launch, and paid ad should point at a dedicated landing page.",
-      "category": "false",
+      "category": "Marketing",
       "related_terms": [
         "lead-magnet",
         "conversion-rate",
@@ -607,7 +607,7 @@
       "example": "\"Download my free character template\"",
       "recommendation": "YES! Nobody joins lists without a reason.",
       "long_definition": "A lead magnet is something valuable you give away in exchange for an email address. For fiction authors it's usually a free short story, a bonus scene, or a novella. For non-fiction it's a checklist, template, or guide. Good lead magnets are specific, quick to consume, and genuinely useful to the exact reader you want on your list. A great lead magnet does half the work of your welcome sequence.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "landing-page",
         "opt-in",
@@ -626,7 +626,7 @@
       "example": "The blue underlined text you click on.",
       "recommendation": "You already do!",
       "long_definition": "A link (hyperlink) is any clickable element that sends someone somewhere else — another page, a file, an app, an email. When someone says 'send me the link,' they mean the URL. Good linking practice: use descriptive text ('read my latest cozy mystery') rather than 'click here', which helps both readers and search engines.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "url",
         "cta",
@@ -643,7 +643,7 @@
       "example": "Viruses, ransomware, spyware, trojans.",
       "recommendation": "YES. Antivirus, don't open weird attachments, keep software updated.",
       "long_definition": "Malware is any software designed to harm your device or steal your data — viruses, ransomware, spyware, trojans. Basic defence: keep your operating system and browser updated, don't open attachments from strangers, use antivirus software (Windows Defender is fine for most), and never install pirated software. Authors are targets because manuscripts and email lists have real value.",
-      "category": "false",
+      "category": "Security",
       "related_terms": [
         "phishing",
         "two-factor-authentication",
@@ -660,7 +660,7 @@
       "example": "Your book's categories, keywords, and description on Amazon.",
       "recommendation": "For books yes, for websites let tools handle it.",
       "long_definition": "Metadata is the information about your content that helps platforms categorise, search, and recommend it. On Amazon, your book's metadata includes title, subtitle, categories, keywords, description, and series information. Getting this right is one of the highest-leverage things a self-published author can do — good metadata is how the right readers find your book among millions of others.",
-      "category": "false",
+      "category": "Publishing",
       "related_terms": [
         "keywords",
         "seo",
@@ -677,7 +677,7 @@
       "example": "Text resizes, menus change for small screens.",
       "recommendation": "YES! 60% of people browse on phones.",
       "long_definition": "A mobile-responsive website automatically adjusts its layout to look good on any screen size — phone, tablet, desktop. Most modern website builders make this automatic, but always test your site on your phone before publishing. More than half your readers will find you on mobile, and a broken mobile experience means they'll leave before they read a word.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "cms",
         "ux",
@@ -694,7 +694,7 @@
       "example": "Monthly update with book news, life bits, and a book recommendation.",
       "recommendation": "YES. Your most important marketing channel.",
       "long_definition": "A newsletter is a regular email — weekly, fortnightly, monthly — sent to your subscribers. For authors it's where you build relationships between books. The best author newsletters aren't just 'buy my book' announcements; they mix personal news, behind-the-scenes glimpses, useful recommendations, and occasional sales. Consistency matters more than frequency.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "email-service-provider",
         "subscriber",
@@ -712,7 +712,7 @@
       "example": "Send to 100, 25 open = 25% open rate.",
       "recommendation": "Yes, shows if your subject lines work.",
       "long_definition": "Open rate is the percentage of email recipients who opened a given email. It tells you whether your subject lines are working and whether your list is engaged. Industry benchmarks for authors sit around 25–40%, though recent privacy changes (particularly Apple Mail Privacy Protection) have made open rate less reliable than it used to be. Click rate is now often a truer signal.",
-      "category": "false",
+      "category": "Analytics",
       "related_terms": [
         "engagement-rate",
         "email-service-provider",
@@ -729,7 +729,7 @@
       "example": "\"Yes, send me updates!\"",
       "recommendation": "Legally required. Only email people who asked.",
       "long_definition": "Opt-in means someone actively agreed to receive your emails — they ticked a box, filled a form, clicked a confirmation link. This isn't just polite, it's legal (Australia's Spam Act, the US CAN-SPAM Act, the EU's GDPR all require it). Never add someone to your list because you met them, exchanged cards, or found their email online. Consent is the foundation of email marketing.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "subscriber",
         "email-service-provider",
@@ -747,7 +747,7 @@
       "example": "1Password, Bitwarden, Dashlane, iCloud Keychain.",
       "recommendation": "YES. Non-negotiable. Reusing passwords is asking for trouble.",
       "long_definition": "A password manager generates strong, unique passwords for every account and remembers them for you. You only need to remember one master password. This is the single biggest security upgrade most people can make in an afternoon. Free options like Bitwarden are excellent. Paid options like 1Password add family sharing and better recovery. Any of them beats reusing 'BookLover2019!' across sites.",
-      "category": "false",
+      "category": "Security",
       "related_terms": [
         "two-factor-authentication",
         "phishing",
@@ -764,7 +764,7 @@
       "example": "An email \"from Amazon\" asking you to log in via a suspicious link.",
       "recommendation": "Yes. Check sender addresses. When in doubt, log in directly, not via the link.",
       "long_definition": "Phishing is a scam where someone impersonates a trusted source — your bank, Amazon, Google, Meta — to trick you into revealing passwords or clicking malicious links. Authors get targeted specifically because compromised KDP or ad accounts are valuable. Rule of thumb: if an email asks you to log in urgently, don't click the link. Open a new tab and go to the site directly. Almost every phishing attempt dies at that step.",
-      "category": "false",
+      "category": "Security",
       "related_terms": [
         "malware",
         "two-factor-authentication",
@@ -781,7 +781,7 @@
       "example": "Facebook pixel knows who visited so you can advertise to them later.",
       "recommendation": "Only when you start advertising.",
       "long_definition": "A tracking pixel is a tiny snippet of code you drop onto your website that lets an advertising platform (Meta, Google, TikTok, Pinterest) recognise your visitors when they're back on that platform. If you're not running paid ads, you don't need one. If you're planning to, install it early — pixels get more useful the longer they've been collecting data.",
-      "category": "false",
+      "category": "Marketing",
       "related_terms": [
         "seo",
         "traffic",
@@ -798,7 +798,7 @@
       "example": "Amazon is a platform for selling books.",
       "recommendation": "You're already using platforms!",
       "long_definition": "'Platform' is a catch-all word for any service that hosts your content or business. Amazon is a publishing platform. YouTube is a video platform. Substack is a newsletter platform. Ivorey is a website platform. The strategic point: platforms can change their rules, prices, or algorithms overnight. Build on platforms you have to, but always own the pieces that matter most (your email list, your website domain).",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "cms",
         "hosting",
@@ -815,7 +815,7 @@
       "example": "Adding a contact form plugin to WordPress.",
       "recommendation": "Keep minimal. Each one slows your site.",
       "long_definition": "A plugin is an add-on that extends what your website can do — a contact form, a SEO helper, a newsletter signup, a shop. WordPress has around 60,000 free plugins. That freedom is powerful and dangerous: every plugin adds code, and code adds vulnerabilities and slowdowns. Keep your plugin list short, well-known, and regularly updated.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "wordpress",
         "cms",
@@ -833,7 +833,7 @@
       "example": "\"Join my list!\" box that appears after 10 seconds.",
       "recommendation": "They work but annoy people. Use sparingly.",
       "long_definition": "A pop-up is any box that appears over your website content — usually asking for an email signup. Yes, they work. No, they're not necessarily evil. The best pop-ups appear at the right moment (after someone's read a bit), offer something genuinely useful (not just 'get updates'), and let people close them without hunting for the X. Exit-intent pop-ups (triggered when someone moves to close the tab) are less annoying than immediate ones.",
-      "category": "false",
+      "category": "Marketing",
       "related_terms": [
         "opt-in",
         "lead-magnet",
@@ -851,7 +851,7 @@
       "example": "Moving a blog post to a new address and pointing the old one at the new one.",
       "recommendation": "Yes, whenever you change a URL.",
       "long_definition": "A redirect automatically sends someone from one URL to another. This matters most when you change a page's address — without a redirect, the old link (which might be in Pinterest pins, other people's blog posts, or Google's index) breaks. A 301 redirect ('permanent') also passes most of the SEO value from the old URL to the new one. Every website tool has a way to set them up.",
-      "category": "false",
+      "category": "SEO",
       "related_terms": [
         "url",
         "seo",
@@ -868,7 +868,7 @@
       "example": "Spend $100 on ads, make $300 in sales = 200% ROI.",
       "recommendation": "YES! Know what makes money.",
       "long_definition": "ROI measures whether the money you spend earns more than it cost. For authors, this most often applies to ads (spent $100, made $250 in royalties, ROI 150%) but also to tools, courses, and time. Not everything needs a positive ROI immediately — building an email list, for instance, pays off over years. But knowing which activities actually make you money is how you scale.",
-      "category": "false",
+      "category": "Marketing",
       "related_terms": [
         "conversion-rate",
         "funnel",
@@ -885,7 +885,7 @@
       "example": "Like subscribing to a magazine but for blogs.",
       "recommendation": "It's automatic. Ignore it.",
       "long_definition": "RSS is a way for readers to subscribe to updates from a website using a feed reader app. Most blog platforms produce an RSS feed automatically. You don't need to do anything with it — a small but loyal group of readers still use RSS, and setting up an author feed takes zero effort because your CMS already does it.",
-      "category": "false",
+      "category": "Content",
       "related_terms": [
         "blog",
         "cms"
@@ -901,7 +901,7 @@
       "example": "Romance readers in one group, mystery readers in another.",
       "recommendation": "Eventually. Start with one list.",
       "long_definition": "Segmentation is dividing your email list into groups so you can send more relevant messages. Common author segments: series readers vs standalone readers, subscribers who've bought vs subscribers who haven't, cold subscribers vs engaged ones. Start with one list and one welcome sequence. Segment only when you have something meaningfully different to say to different groups.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "subscriber",
         "tag",
@@ -919,7 +919,7 @@
       "example": "Using the right words so people find your book website.",
       "recommendation": "Basic SEO yes, obsessing no. Content first.",
       "long_definition": "SEO is the practice of making your website more likely to show up when someone searches Google. The basics matter: use relevant keywords in your page titles and headings, write for humans not robots, keep your site fast and mobile-friendly, get other reputable sites to link to yours. Beyond the basics, SEO becomes a rabbit hole. Most authors get 90% of the benefit from just doing the basics well and publishing useful content regularly.",
-      "category": "false",
+      "category": "SEO",
       "related_terms": [
         "keywords",
         "metadata",
@@ -937,7 +937,7 @@
       "example": "An XML file at techsavvywriters.com/sitemap.xml",
       "recommendation": "Yes. Most website builders generate one automatically.",
       "long_definition": "A sitemap is a file that lists every page on your website, helping search engines discover and index them. Most modern website builders and WordPress SEO plugins generate one automatically at yourdomain.com/sitemap.xml. Submit that URL to Google Search Console once, and Google will use it to find new pages faster.",
-      "category": "false",
+      "category": "SEO",
       "related_terms": [
         "seo",
         "url",
@@ -954,7 +954,7 @@
       "example": "In techsavvywriters.com/tech-terms, 'tech-terms' is the slug.",
       "recommendation": "Yes. Short, descriptive, hyphenated. It matters for SEO.",
       "long_definition": "A slug is the part of a URL that identifies a specific page — usually a short, hyphenated, lowercase version of the title. Good slugs are short, descriptive, and contain relevant keywords. 'how-to-write-a-cozy-mystery' beats 'post-4372'. Most website tools auto-generate slugs from your titles, but always check before publishing.",
-      "category": "false",
+      "category": "SEO",
       "related_terms": [
         "url",
         "seo",
@@ -971,7 +971,7 @@
       "example": "Reviews, testimonials, subscriber counts, \"as seen in\" logos.",
       "recommendation": "YES. Show it wherever you’re asking for a decision.",
       "long_definition": "Social proof is anything that shows other people already trust or enjoy what you offer — reviews, testimonials, subscriber counts, follower numbers, press mentions, endorsements. It works because people take cues from others. On your book page, that means visible star ratings and reader reviews. On your landing page, subscriber count or reader quotes. On your homepage, any 'featured in' logos you've earned.",
-      "category": "false",
+      "category": "Marketing",
       "related_terms": [
         "landing-page",
         "conversion-rate",
@@ -988,7 +988,7 @@
       "example": "Protects visitor information, required for trust.",
       "recommendation": "Yes, but most hosts include it free.",
       "long_definition": "An SSL certificate encrypts the connection between your website and its visitors, showing a padlock icon in the browser and turning your URL into 'https://'. Sites without it show a scary 'Not Secure' warning that will lose you visitors. The good news: nearly every hosting provider now includes SSL for free via Let's Encrypt. If yours doesn't, switch hosts.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "hosting",
         "domain-name",
@@ -1005,7 +1005,7 @@
       "example": "\"I have 500 subscribers\" = 500 people on your list.",
       "recommendation": "Yes! Your most valuable asset.",
       "long_definition": "A subscriber is someone who has opted in to receive your emails. Not every subscriber is equal — an engaged subscriber (opens, clicks, replies) is worth ten passive ones. This is why you'll hear author marketing people obsess over list quality over list size. 500 people who genuinely want to hear from you will sell more books than 5,000 who barely remember signing up.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "opt-in",
         "email-service-provider",
@@ -1023,7 +1023,7 @@
       "example": "Tag 'bought book 1' so you don't advertise it to them again.",
       "recommendation": "Eventually helpful, not day one.",
       "long_definition": "Tags are labels you attach to subscribers to track what you know about them — 'downloaded lead magnet A', 'bought Book 1', 'clicked on cover reveal'. Once tagged, you can send targeted emails or exclude people from campaigns that don't apply to them. Tags are powerful once you've got hundreds of subscribers doing different things. Ignore them until you have that problem.",
-      "category": "false",
+      "category": "Email Marketing",
       "related_terms": [
         "subscriber",
         "segmentation",
@@ -1041,7 +1041,7 @@
       "example": "Email templates, website templates, book cover templates.",
       "recommendation": "YES! Don't reinvent wheels.",
       "long_definition": "A template is a pre-designed starting point. Templates exist for everything an author needs: emails, blog posts, social media graphics, book covers, landing pages, newsletters. Good templates save hours and keep your branding consistent. Canva and MailerLite are template goldmines for authors. Never build from a blank page when a good template will get you 80% of the way there.",
-      "category": "false",
+      "category": "Design",
       "related_terms": [
         "cms",
         "ux",
@@ -1058,7 +1058,7 @@
       "example": "\"I got 1,000 traffic\" = 1,000 people visited.",
       "recommendation": "Quality over quantity. 100 interested > 1,000 random.",
       "long_definition": "Traffic is the number of people visiting your website. There are different kinds: organic (from search engines), direct (typed your URL), referral (clicked a link on another site), social (from a social platform), and paid (from ads). Which type matters more than how much. A hundred visitors who love cozy mysteries are worth more than a thousand who arrived by accident.",
-      "category": "false",
+      "category": "Analytics",
       "related_terms": [
         "bounce-rate",
         "conversion-rate",
@@ -1076,7 +1076,7 @@
       "example": "Entering your password AND a code from your phone.",
       "recommendation": "YES. Turn it on everywhere important: KDP, email, banking, ads.",
       "long_definition": "2FA (also MFA) adds a second step to logging in — usually a code from an app like Google Authenticator or Authy, or a text message. Even if someone steals your password, they can't get in without your phone. Turn it on for KDP, your ad accounts, your email, your banking, and anywhere else that would be catastrophic to lose. Ten seconds each login; saves potentially years of pain.",
-      "category": "false",
+      "category": "Security",
       "related_terms": [
         "password-manager",
         "phishing",
@@ -1093,7 +1093,7 @@
       "example": "https://www.yoursite.com/about",
       "recommendation": "You already do!",
       "long_definition": "A URL is the full address of a specific page or resource on the internet. It has parts: the protocol (https://), the domain (yoursite.com), and often a path (/about) or parameters (?utm_source=facebook). You'll see URLs everywhere. Clean, short, descriptive URLs are easier to share and better for SEO.",
-      "category": "false",
+      "category": "General Tech",
       "related_terms": [
         "domain-name",
         "link",
@@ -1110,7 +1110,7 @@
       "example": "Can people find your books easily? Is text readable?",
       "recommendation": "Keep it simple and you'll be fine.",
       "long_definition": "UX is the sum of every interaction someone has with your site: how fast it loads, how easy the menu is to navigate, whether the text is readable, whether the buttons do what they seem to promise. Good UX is invisible — people just find what they need. Bad UX is visible — people leave. Test your site by asking someone who's never seen it to find your books.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "mobile-responsive",
         "cms",
@@ -1127,7 +1127,7 @@
       "example": "Making your laptop look like it's in another country.",
       "recommendation": "Only if travelling, or specifically needed.",
       "long_definition": "A VPN routes your internet traffic through an encrypted connection, hiding your real location and activity from your ISP and the sites you visit. Useful when travelling and using public wi-fi, or when a service is geo-restricted. Not something most authors need day to day, but worth knowing about if you're travelling internationally with a book launch happening.",
-      "category": "false",
+      "category": "Security",
       "related_terms": [
         "isp",
         "malware",
@@ -1144,7 +1144,7 @@
       "example": "Stripe telling your app 'a subscription payment just failed'.",
       "recommendation": "Not directly, but they power a lot of automations you use.",
       "long_definition": "A webhook is a way for one app to notify another the instant something happens — a purchase, a signup, a failed payment — instead of the second app having to ask 'anything new?' repeatedly. You won't build webhooks from scratch, but understanding they exist helps you troubleshoot automations. When 'the Zap didn't fire', it's often a webhook that didn't get delivered.",
-      "category": "false",
+      "category": "Automation",
       "related_terms": [
         "api",
         "automation",
@@ -1161,7 +1161,7 @@
       "example": "\"Recent Posts\" box, \"Subscribe\" box.",
       "recommendation": "A few good ones yes, don't overload.",
       "long_definition": "A widget is a small, self-contained element you can drop into your website — a recent posts list, a subscribe form, a search box, a social media feed. Widgets are convenient but the same rule as plugins applies: each one adds code, and code slows things down. Two or three well-chosen widgets beat a dozen cluttered ones.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "plugin",
         "cms",
@@ -1178,7 +1178,7 @@
       "example": "Boxes and lines showing where the header, images, and text will go.",
       "recommendation": "Only if planning something custom or briefing a designer.",
       "long_definition": "A wireframe is a low-fidelity plan of a page — boxes for images, lines for text, arrows for buttons — used to work out what goes where before anyone worries about colours or fonts. Useful when briefing a designer, or when planning a landing page or book page. Free tools like Figma or even pen and paper work fine.",
-      "category": "false",
+      "category": "Design",
       "related_terms": [
         "landing-page",
         "ux",
@@ -1195,7 +1195,7 @@
       "example": "WordPress.com (free/hosted) or WordPress.org (paid/self-hosted)",
       "recommendation": "Great option but not the only one.",
       "long_definition": "WordPress powers around 40% of all websites. Two flavours confuse everyone: WordPress.com is a hosted service (someone else handles the technical side; you get less control). WordPress.org is the software you install on your own hosting (full control; you handle updates and security). For most authors starting out, WordPress.com or a fully-managed alternative like Ivorey is less headache. Move to self-hosted only when you have a specific reason.",
-      "category": "false",
+      "category": "Website",
       "related_terms": [
         "cms",
         "hosting",
