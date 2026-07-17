@@ -76,7 +76,7 @@ In the repo → Settings → Secrets and variables → Actions → New repositor
 | Secret name | Value |
 |---|---|
 | `CLICKUP_API_TOKEN` | Your ClickUp personal API token (starts with `pk_`) |
-| `CLICKUP_LIST_ID` | `90165742913` |
+| `CLICKUP_LIST_ID` | `901615939789` |
 
 ### 3. Run it manually the first time
 
