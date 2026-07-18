@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T22:57:02.869813+00:00",
-  "count": 70,
+  "generated_at": "2026-07-18T12:02:42.525851+00:00",
+  "count": 71,
   "terms": [
     {
       "term": "A/B Testing",
-      "slug": "ab-testing",
+      "slug": "a-b-testing",
       "letter": "A",
       "plain_english": "Trying two versions of something to see which works better.",
       "tech_speak": "Split testing",
@@ -47,7 +47,6 @@
       "long_definition": "An ARC is a copy of your book distributed to readers, reviewers, or bloggers before it goes on sale, so that reviews are ready when your book launches. Services like BookFunnel, StoryOrigin, and BookSirens make this manageable. A good ARC team of even 20–30 engaged readers can be the difference between a book that gains traction and one that disappears.",
       "category": "Publishing",
       "related_terms": [
-        "publishing",
         "ebook",
         "lead-magnet"
       ],
@@ -162,7 +161,7 @@
       "plain_english": "Saved information that makes things load faster the second time.",
       "tech_speak": "Temporary storage layer",
       "example": "Why your website loads quickly the second time you visit it.",
-      "recommendation": "Only matters when you’ve just updated something and can’t see the change.",
+      "recommendation": "Only matters when you've just updated something and can't see the change.",
       "long_definition": "Cache is a temporary store of data that lets your browser (or website) load faster by not fetching everything fresh every time. It's usually invisible — until you update your website and can't see the change. Solution: 'hard refresh' the page (Cmd+Shift+R on Mac, Ctrl+F5 on Windows), or 'clear your cache' in browser settings.",
       "category": "Website",
       "related_terms": [
@@ -219,7 +218,7 @@
         "landing-page",
         "cta",
         "funnel",
-        "ab-testing"
+        "a-b-testing"
       ],
       "related_dotthq_tool": ""
     },
@@ -310,7 +309,7 @@
     },
     {
       "term": "Download/Upload",
-      "slug": "downloadupload",
+      "slug": "download-upload",
       "letter": "D",
       "plain_english": "Download = taking from internet to your computer. Upload = sending from your computer to internet.",
       "tech_speak": "Data transfer direction",
@@ -334,8 +333,25 @@
       "long_definition": "DRM is the technology that stops people copying and sharing digital files. On KDP you'll be asked whether to enable DRM on your ebooks. It's a genuine debate — DRM inconveniences honest readers more than it stops determined pirates, and some authors deliberately turn it off. Most authors leave it on. Either way, it's a checkbox, not something you need to build.",
       "category": "Publishing",
       "related_terms": [
-        "publishing",
         "ebook"
+      ],
+      "related_dotthq_tool": ""
+    },
+    {
+      "term": "Ebook",
+      "slug": "ebook",
+      "letter": "E",
+      "plain_english": "A digital version of a book, readable on phones, tablets, e-readers, or computers.",
+      "tech_speak": "Electronic publication",
+      "example": "The Kindle version of your novel that readers download from Amazon.",
+      "recommendation": "Yes — most indie authors sell more ebooks than paperbacks.",
+      "long_definition": "An ebook is a book in digital file form, most commonly EPUB (used by nearly every retailer) or Amazon's proprietary Kindle formats. Ebooks are the entry point for most indie authors — cheaper to produce than print, faster to publish, and easier to update. Same story, different container.",
+      "category": "Publishing",
+      "related_terms": [
+        "epub",
+        "drm",
+        "arc",
+        "metadata"
       ],
       "related_dotthq_tool": ""
     },
@@ -404,8 +420,8 @@
       "category": "Publishing",
       "related_terms": [
         "drm",
-        "publishing",
-        "metadata"
+        "metadata",
+        "ebook"
       ],
       "related_dotthq_tool": "Vellum"
     },
@@ -452,7 +468,7 @@
       "plain_english": "European privacy law that affects anyone with European readers.",
       "tech_speak": "EU personal data regulation",
       "example": "Why every website now has a cookie banner.",
-      "recommendation": "Yes, basics matter. Don’t sell reader data. Confirm opt-ins.",
+      "recommendation": "Yes, basics matter. Don't sell reader data. Confirm opt-ins.",
       "long_definition": "GDPR is the European Union's privacy law, and it applies to any business — including a solo indie author — that collects personal data from anyone in the EU. In practice, this means: get real consent before adding people to your list, let subscribers unsubscribe easily, and don't share their data with third parties without permission. The basics are also just good ethics.",
       "category": "Legal",
       "related_terms": [
@@ -663,8 +679,7 @@
       "category": "Publishing",
       "related_terms": [
         "keywords",
-        "seo",
-        "publishing"
+        "seo"
       ],
       "related_dotthq_tool": "Publisher Rocket"
     },
@@ -801,8 +816,7 @@
       "category": "General Tech",
       "related_terms": [
         "cms",
-        "hosting",
-        "publishing"
+        "hosting"
       ],
       "related_dotthq_tool": ""
     },
@@ -969,7 +983,7 @@
       "plain_english": "Evidence that other people like or trust what you're offering.",
       "tech_speak": "Trust signalling",
       "example": "Reviews, testimonials, subscriber counts, \"as seen in\" logos.",
-      "recommendation": "YES. Show it wherever you’re asking for a decision.",
+      "recommendation": "YES. Show it wherever you're asking for a decision.",
       "long_definition": "Social proof is anything that shows other people already trust or enjoy what you offer — reviews, testimonials, subscriber counts, follower numbers, press mentions, endorsements. It works because people take cues from others. On your book page, that means visible star ratings and reader reviews. On your landing page, subscriber count or reader quotes. On your homepage, any 'featured in' logos you've earned.",
       "category": "Marketing",
       "related_terms": [
@@ -1044,8 +1058,7 @@
       "category": "Design",
       "related_terms": [
         "cms",
-        "ux",
-        "design"
+        "ux"
       ],
       "related_dotthq_tool": "Canva"
     },
